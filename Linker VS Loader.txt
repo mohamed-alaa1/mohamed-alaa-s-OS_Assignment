@@ -1,0 +1,8 @@
+
+Linker:
+
+if we have many files of code and we want to run them together as one program, we use linker, it works before the program runs, the working mechanism that each source file becomes object file the linker takes all of this objects and links them.
+
+Loader: 
+
+the loader is a part of the OS, because it loads the .exe files from the disk to the memory and allocates memory for the code in this files, so it works in the runtime, and it resolve the dynamic libraries during the execution, if you remember we writes a code to catch this libraries during the runtime at the previous task.
